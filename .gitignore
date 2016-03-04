@@ -1,0 +1,10 @@
+dspline/data
+*.a
+*.o
+*.mod
+*.csv
+*.sh
+*.py
+*.swp
+*~
+

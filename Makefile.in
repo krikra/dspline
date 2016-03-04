@@ -1,0 +1,5 @@
+INC=../include
+CC=gcc
+FC=gfortran
+CFLAGS= -O3 -g -lm -fopenmp
+FFLAGS= -O3 -g -lm -fopenmp
